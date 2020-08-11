@@ -1,2 +1,2 @@
 sample text from PyCharm
-sample 2 text
+sample 2 text 2
